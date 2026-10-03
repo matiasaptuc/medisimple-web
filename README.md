@@ -2,6 +2,8 @@
 
 Nueva versión de [getmedisimple.com](https://www.getmedisimple.com): mismo diseño del sitio actual, con el contenido alineado al **Playbook – MediSimple** (Notion, septiembre 2026) y un botón flotante de WhatsApp.
 
+**Sitio publicado:** https://medisimple-web.vercel.app
+
 ## Stack
 
 Vite + React 19 + TypeScript + Tailwind CSS 4 + Motion + Lucide (el mismo stack del sitio actual).
