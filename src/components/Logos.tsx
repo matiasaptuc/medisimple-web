@@ -6,7 +6,7 @@ const MASK = "linear-gradient(to right, transparent, black 10%, black 90%, trans
 
 export default function Logos() {
   return (
-    <section id="results" className="py-20 md:py-28 bg-white overflow-hidden scroll-mt-24">
+    <section id="results" className="py-20 md:py-28 bg-white border-t border-slate-100 overflow-hidden scroll-mt-24">
       <div className="max-w-7xl mx-auto px-6 mb-14">
         <h2 className="text-center text-sm font-semibold uppercase tracking-[0.2em] text-slate-500">{c.title}</h2>
       </div>

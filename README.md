@@ -45,9 +45,8 @@ El botón flotante (abajo a la derecha) abre `wa.me/56941706406` con un mensaje 
 5. **Cómo trabajamos**: sesión estratégica → diagnóstico ACR → implementación → ciclo mensual.
 6. **Trazabilidad**: cómo medimos (anuncios + CRM + ficha clínica) e integraciones.
 7. **Diferencia**: agencias tradicionales vs. MediSimple.
-8. **Planes**: Growth Partner y ACR + mensualidad (sin precios) y especialidades.
-9. **Clientes**: carrusel de logos.
-10. **CTA final** y footer.
+8. **Clientes**: carrusel de logos.
+9. **CTA final** y footer.
 
 ## Contenido: criterios
 

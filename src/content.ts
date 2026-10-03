@@ -6,7 +6,6 @@ export const content = {
     links: [
       { id: "acr", label: "Metodología" },
       { id: "process", label: "Cómo trabajamos" },
-      { id: "planes", label: "Planes" },
       { id: "results", label: "Clientes" },
     ],
     cta: "Agendar sesión",
@@ -207,53 +206,6 @@ export const content = {
       { t: "Lo construimos para que sea tuyo", d: "Las cuentas quedan a tu nombre y capacitamos a tu equipo para operar." },
     ],
     note: "¿Ya trabajas con una agencia? No tienes que cambiarla: nos coordinamos con ella.",
-  },
-
-  plans: {
-    title: "Dos formas de trabajar juntos",
-    sub: "Mismo equipo y misma metodología. Cambia cómo partimos según el tamaño de tu consulta o clínica.",
-    options: [
-      {
-        name: "Growth Partner",
-        audience: "Profesionales independientes y clínicas de 1 a 2 profesionales",
-        desc: "Un fijo mensual más un porcentaje sobre la venta que generamos. Crecemos cuando tú creces.",
-        highlights: [
-          "Sin pago de implementación: partimos directo",
-          "En vivo en 4 semanas",
-          "Incluye un ejecutivo que llama a tus pacientes para agendar procedimientos",
-        ],
-        featured: true,
-      },
-      {
-        name: "ACR + mensualidad",
-        audience: "Clínicas pequeñas, medianas y grandes",
-        desc: "Una implementación ACR de 8 semanas y luego una mensualidad según el tamaño de tu clínica.",
-        highlights: [
-          "Diagnóstico e implementación completa",
-          "En vivo en la semana 6",
-          "Coordinación con tu equipo y tus áreas",
-        ],
-        featured: false,
-      },
-    ],
-    includesTitle: "Ambos incluyen",
-    includes: [
-      "CRM con WhatsApp, Instagram y web",
-      "Integración con tu ficha clínica",
-      "Bot IA con supervisión humana",
-      "Capacitación a recepción",
-      "Recordatorios y confirmaciones de citas",
-      "Reseñas automáticas de Google",
-      "Reunión mensual de resultados",
-      "Guiones, grabación y edición de videos",
-      "Manejo de campañas en Meta Ads",
-      "Campaña de recurrencia por WhatsApp",
-      "Trazabilidad y dashboard compartido",
-      "Soporte completo del CRM",
-    ],
-    specialtiesTitle: "Especialidades con las que trabajamos",
-    specialties: ["Estética", "Dermatología", "Dental", "Cirugía", "Capilar", "Traumatología", "Otras especialidades"],
-    cta: "Ver cuál te conviene",
   },
 
   logos: {
